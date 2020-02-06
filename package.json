@@ -1,0 +1,10 @@
+{
+  "name": "BackEnd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Manoel de Oliveira Prado Neto <manoelprado.aecjr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
